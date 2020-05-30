@@ -62,6 +62,7 @@ V1.1:
 #### 1. Upload video and process it by selecting different models  
 
 ![select-models](docs/img/select-models.gif)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FQimingAi%2FVideo-to-Online-Platform.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FQimingAi%2FVideo-to-Online-Platform?ref=badge_shield)
 
 #### 2. Display video processing result  
 
@@ -346,3 +347,7 @@ Coming soon!
 [SSD Inception v2 COCO]: http://download.tensorflow.org/models/object_detection/ssd_inception_v2_coco_2018_01_28.tar.gz
 [FasterRCNN ResNet101 COCO]: http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet101_coco_2018_01_28.tar.gz
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FQimingAi%2FVideo-to-Online-Platform.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FQimingAi%2FVideo-to-Online-Platform?ref=badge_large)
